@@ -20,6 +20,7 @@ The LINE Whoami Bot is a simple LINE chatbot that responds to specific text trig
 You need to set the following environment variable:
 
 - LINE_MESSAGING_ACCESS_TOKEN: Your LINE Messaging API access token.
+- LINE_CHANNEL_SECRET: Your LINE channel secret
 
 ### Installation
 
